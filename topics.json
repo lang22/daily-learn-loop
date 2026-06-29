@@ -105,6 +105,15 @@
       "last_picked": "2026-06-30"
     },
     {
+      "keyword": "Agent Architecture Design",
+      "slug": "agent-architecture-design",
+      "category": "engineering",
+      "tags": ["agent", "architecture", "system-design"],
+      "difficulty": 3,
+      "status": "materials_ready",
+      "last_picked": "2026-07-01"
+    },
+    {
       "keyword": "Agent Planning & Reasoning",
       "slug": "agent-planning",
       "category": "agent",

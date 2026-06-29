@@ -20,6 +20,17 @@
       "created_at": "2026-06-30T05:17:00+08:00",
       "completed_at": "2026-06-30T10:30:00+08:00",
       "feishu_folder": "https://dcnu6hpipt8w.feishu.cn/drive/folder/Modffvj7nliaXRdfi7JcXzw7n3f"
+    },
+    {
+      "date": "2026-07-01",
+      "slug": "agent-architecture-design",
+      "keyword": "Agent Architecture Design",
+      "category": "engineering",
+      "status": "materials_ready",
+      "materials_path": "materials/2026-07-01-agent-architecture-design/",
+      "sources_verified": true,
+      "sources_count": 7,
+      "created_at": "2026-07-01T05:17:00+08:00"
     }
   ]
 }
