@@ -3,7 +3,10 @@ state.json
 topics.json
 COMPLETED.md
 
-# Lark/Ffeishu auth
+# Personal interview transcripts
+materials/**/interview-transcript.md
+
+# Lark/Feishu auth
 .lark-cli/
 
 # Generated sprint artifacts
