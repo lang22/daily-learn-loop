@@ -13,6 +13,7 @@ pending → materials_ready → studying → exam_ready → exam_passed → inte
 
 - **验证优先：** 所有内容必须上网搜索验证，禁止仅凭训练数据输出。详见 [references/verification.md](references/verification.md)
 - **飞书同步：** 文档类产物本地新增/更新后必须同步飞书。详见 [references/feishu-sync.md](references/feishu-sync.md)
+- **可选：Obsidian 归档：** 如果不使用飞书，可将材料归档到 Obsidian vault。详见 [references/obsidian-archive.md](references/obsidian-archive.md)。切换方式：设置环境变量 `ARCHIVE_METHOD=obsidian`
 - **文件模板：** 所有 .md 文件必须遵守固定结构。详见 [references/file-templates.md](references/file-templates.md)
 
 ## 阶段概览
